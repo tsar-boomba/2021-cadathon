@@ -22,4 +22,8 @@ public final class Constants {
 		public static int LEFT_MOTOR_PORT2 = 4;
 		public static int LEFT_MOTOR_PORT3 = 5;
 	};
+
+	public static final class OIConstants {
+		public static final int DRIVER_JOYSTICK_PORT = 0;
+	}
 }
